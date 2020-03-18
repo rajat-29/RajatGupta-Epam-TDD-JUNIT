@@ -49,6 +49,6 @@ public class RemoveAFromString {
     public static void main(String[] args)
     {
         RemoveAFromString str = new RemoveAFromString();
-        System.out.println(str.removeA("AAASD"));
+        System.out.println(str.removeA("ABCDA"));
     }
 }
